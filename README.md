@@ -48,3 +48,9 @@ Para adicionar uma nova série, você pode enviar uma requisição POST para o e
 
 Você consegue acessar localmente (rodando a aplicação) o Swagger dos endpoints acima em `http://localhost:8081/swagger-ui/index.html#/`
 ![img.png](img.png)
+
+![img_1.png](img_1.png)
+
+![img_2.png](img_2.png)
+
+![img_3.png](img_3.png)
